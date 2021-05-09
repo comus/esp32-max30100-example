@@ -29,8 +29,8 @@
 
 #include "max30100/max30100.h"
 
-#define I2C_SDA 26
-#define I2C_SCL 25
+#define I2C_SDA 15
+#define I2C_SCL 4
 #define I2C_FRQ 100000
 #define I2C_PORT I2C_NUM_0
 
